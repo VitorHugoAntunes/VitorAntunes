@@ -46,7 +46,7 @@ I am currently in the 4th semester of Systems Analysis and Development.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60px" width="60"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" height="60px" width="60"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original-wordmark.svg" height="60px" width="60"/>   
-<img src="https://prismalens.vercel.app/header/logo-dark.svg " height="60px" width="60"/> 
+<img src="https://prismalens.vercel.app/header/logo-dark.svg" height="60px" width="60"/> 
 </div>
 
 ### Database technologies
