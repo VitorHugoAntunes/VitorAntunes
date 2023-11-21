@@ -25,8 +25,8 @@ I am currently in the 4th semester of Systems Analysis and Development.
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(60px, 1fr)); gap: 20px;">
  
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60px" width="60"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60px" width="60"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60px" width="60"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60px" width="60"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="60px" width="60"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original-wordmark.svg" height="60px" width="60" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"  height="60px" width="60"/>
@@ -41,7 +41,7 @@ I am currently in the 4th semester of Systems Analysis and Development.
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(60px, 1fr)); gap: 20px;">
  
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="60px" width="60"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="60px" width="60"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" height="60px" width="60"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60px" width="60"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" height="60px" width="60"/>
@@ -55,8 +55,8 @@ I am currently in the 4th semester of Systems Analysis and Development.
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="60px" width="60" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg"  height="60px" width="60"/>
-</div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" height="60px" width="60"/>
+</div>
 
 ## What I'm currently learning 📚
 
